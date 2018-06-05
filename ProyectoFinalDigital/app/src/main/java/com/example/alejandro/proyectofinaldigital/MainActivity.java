@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private static final int REQUEST_LOCATION = 1;
     Button button;
     LocationManager locationManager;
-    String iploca = "192.168.1.16";
+    String iploca = "192.168.43.21";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
